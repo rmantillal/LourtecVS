@@ -1,0 +1,15 @@
+C:\Works\LourtecVS\BusTicket\BusTicket\bin\Debug\BusTicket.exe.config
+C:\Works\LourtecVS\BusTicket\BusTicket\bin\Debug\BusTicket.exe
+C:\Works\LourtecVS\BusTicket\BusTicket\bin\Debug\BusTicket.pdb
+C:\Works\LourtecVS\BusTicket\BusTicket\obj\Debug\BusTicket.csprojResolveAssemblyReference.cache
+C:\Works\LourtecVS\BusTicket\BusTicket\obj\Debug\MainWindow.g.cs
+C:\Works\LourtecVS\BusTicket\BusTicket\obj\Debug\App.g.cs
+C:\Works\LourtecVS\BusTicket\BusTicket\obj\Debug\BusTicket_MarkupCompile.cache
+C:\Works\LourtecVS\BusTicket\BusTicket\obj\Debug\BusTicket_MarkupCompile.lref
+C:\Works\LourtecVS\BusTicket\BusTicket\obj\Debug\MainWindow.baml
+C:\Works\LourtecVS\BusTicket\BusTicket\obj\Debug\BusTicket.g.resources
+C:\Works\LourtecVS\BusTicket\BusTicket\obj\Debug\BusTicket.Properties.Resources.resources
+C:\Works\LourtecVS\BusTicket\BusTicket\obj\Debug\BusTicket.csproj.GenerateResource.Cache
+C:\Works\LourtecVS\BusTicket\BusTicket\obj\Debug\BusTicket.csproj.CoreCompileInputs.cache
+C:\Works\LourtecVS\BusTicket\BusTicket\obj\Debug\BusTicket.exe
+C:\Works\LourtecVS\BusTicket\BusTicket\obj\Debug\BusTicket.pdb
