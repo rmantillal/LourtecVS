@@ -75,6 +75,8 @@ namespace BusTicket
             this.Destino.ItemsSource = Estaciones;
             this.Destino.SelectedItem = Reserva.Destino;
             this.DiaViaje.SelectedDate = Reserva.Fecha;
+
+
         }
     }
 }

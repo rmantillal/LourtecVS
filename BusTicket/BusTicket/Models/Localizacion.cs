@@ -17,5 +17,6 @@ namespace BusTicket.Models
         {
             return $"{Estacion} - { Ciudad}, { Estado}, { Pais}";
         }
+
     }
 }
